@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "akshaynanobolu",
+        "DB_PASSWORD": "Nani2002",
+        "DB_NAME": "SnapMapDB",
+        "PRIVATE_KEY": "supersecret_key_by_akshay"
+    }
+}
